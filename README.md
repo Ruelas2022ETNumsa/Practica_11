@@ -108,12 +108,12 @@ int factorial(int finn){
 #### Ejecucion 1
 
 
-> ${\color{TealBlue}\mbox{Prueba 1  (  1.1^(1/3)  )}}$
+> ${\color{TealBlue}\mbox{Prueba 1  (  raiz cubica de : 1.1  )}}$
 <p align="center">
   <img   src="P11_E1/P11_E1_Prueba.jpg">
 </p>
 
-> ${\color{TealBlue}\mbox{Prueba 1  ( 1.5^(1/3) )}}$
+> ${\color{TealBlue}\mbox{Prueba 1  ( raiz cubica de : 1.5 )}}$
 <p align="center">
   <img   src="P11_E1/P11_E1_Prueba_2.jpg">
 </p>
@@ -267,7 +267,7 @@ float factorial(float finn){
 
 > ${\color{TealBlue}\mbox{Flujograma  (termino n simo)}}$
 <p align="center">
-  <img   src="P11_E2/p11_E3_TERMINO_N_SIMO.jpg">
+  <img   src="P11_E3/p11_E3_TERMINO_N_SIMO.jpg">
 </p>
 
 #### Codificacion_en_C_3
